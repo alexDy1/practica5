@@ -1,0 +1,32 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="ediTextwhite" parent="Theme.AppCompat.Light">
+        <item name="android:textSize">@dimen/ediText_textSize</item>
+        <item name="android:textColorHint">@color/ediText_ColorHint</item>
+        <item name="android:textColorPrimary">@color/ediText_textColorPrimary</item>
+        <item name="colorControlNormal">@color/ediText_colorControlNormal</item>
+        <item name="colorControlActivated">@color/ediText_colorControlActivated</item>
+    </style>
+    <style name="ReiseButtonDrak" parent="@style/Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@color/button_textColor</item>
+    </style>
+    <style name="ediTextBlack" parent="@style/Theme.AppCompat.Light">
+        <item name="android:textSize">@dimen/ediText_textSize</item>
+        <item name="android:textColorHint">@color/ediTextBlack</item>
+        <item name="android:textColorPrimary">@color/ediTextBlack</item>
+        <item name="colorControlNormal">@color/ediTextBlack</item>
+        <item name="colorControlActivated">@color/ediTextBlack</item>
+    </style>
+</resources>

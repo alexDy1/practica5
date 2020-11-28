@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ediText_ColorHint">#FFFFFF</color>
+    <color name="ediText_textColorPrimary">#FFFFFF</color>
+    <color name="ediText_colorControlNormal">#FFFFFF</color>
+    <color name="ediText_colorControlActivated">#FFFFFF</color>
+    <color name="button_textColor">#FFFFFF</color>
+    <color name="textView_textcolor">#FFFFFF</color>
+    <color name="ediTextBlack">#000000</color>
+    <color name="background_cardview">#6F090808</color>
+</resources>
